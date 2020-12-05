@@ -1,4 +1,6 @@
 // membuat program pengelolaan busway.
+// jalankan pada browser
+// buat satu file index.html untuk menjalankan script ini
 function busway(namaSupir, penumpang, jumlahPenumpang, saldo){
   let obj = {};
   obj.namaSupir       = namaSupir;
